@@ -1,6 +1,6 @@
 ## This R program solves for the inverse of a matrix and caches it
 
-
+ 
 ## makeCacheMatrix function stores a given matrix and its inverse
 
 makeCacheMatrix <- function(x = matrix()) {
